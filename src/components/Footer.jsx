@@ -12,7 +12,7 @@ const Footer = () => {
             </h5>
             <p className="text-white-50 small mb-0">
               You need student records, we have them. You need to add a
-              student, we make it simple — everything in one place.
+              student, we make it simple everything in one place.
             </p>
           </div>
 
